@@ -2,7 +2,7 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
-from system import utils
+from mtgtop8_scraper.system import utils
 import asyncio
 from pyppeteer import launch
 
