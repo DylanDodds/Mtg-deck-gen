@@ -1,16 +1,14 @@
-from requests import get
-from requests.exceptions import RequestException
-from contextlib import closing
+from selenium import webdriver
 from bs4 import BeautifulSoup
-from mtgtop8_scraper.system import utils
-import asyncio
-from pyppeteer import launch
-
+from mtgtop8_scraper.data import utils
+from mtgtop8_scraper.data.data_agent import DataAgent
+from datetime import datetime
+import time
 
 def main():
-    global decks, events
+    global decks
     decks = []
-    events = []
+
 
     url_root = 'http://mtgtop8.com/'
     raw_html = utils.simple_get('http://mtgtop8.com/format?f=ST&meta=58') # All Standard Decks
@@ -26,26 +24,27 @@ def main():
         print("Could not load main page")
         return 0
 
+    data_agent = DataAgent()
     # Iterate through every deck page
-    for deck in decks:
-        asyncio.get_event_loop().run_until_complete(scrape_events(deck['url']))
-        print("Done scraping events")
+    for i in range(0, len(decks)):
+        events = scrape_events(decks[i]['url'])
+        for event in events:
+            data_agent.push_event(event)
+    print("Done scraping events")
 
-import asyncio
-from pyppeteer import launch
 
-async def scrape_events(url):
-    global events
+def scrape_events(url):
     url_root = 'http://mtgtop8.com/'
+    driver = webdriver.Firefox()
+    driver.get(url)
+    events = []
+
     try:
         cur_page_index = 1
-        browser = await launch({'headless': True, 'args': ['--no-sandbox']})
-        page = await browser.newPage()
-        await page.goto(url)
-        while True:
-            raw_html = await page.evaluate('''() => document.body.innerHTML''')
-            html = BeautifulSoup(raw_html, 'html.parser')
 
+        while True:
+            raw_html = driver.page_source
+            html = BeautifulSoup(raw_html, 'html.parser')
             table = html.select('table')[4]
 
             index = 0
@@ -60,24 +59,35 @@ async def scrape_events(url):
 
                 event = {
                     'deck': tds[1].select('a')[0].text,
-                    'deck_url': tds[1].select('a')[0]['href'],
+                    'deck_url': url_root + tds[1].select('a')[0]['href'],
                     'player': tds[2].select('a')[0].text,
-                    'player_url': tds[2].select('a')[0]['href'],
+                    'player_url': url_root + tds[2].select('a')[0]['href'],
                     'event': tds[3].select('a')[0].text,
                     'event_url': url_root + tds[1].select('a')[0]['href'],
                     'rank': tds[5].text,
-                    'date': tds[6].text
+                    'date': time.mktime(datetime.strptime(tds[6].text, "%d/%m/%y").timetuple()),
+                    'cards': []
                 }
                 events.append(event)
                 index += 1
-            # Change page
-            cur_page_index += 1
-            await page.evaluate('() => {PageSubmit(' + str(cur_page_index) + ');}')
 
-        await browser.close()
+            # Change page
+            elements = driver.find_elements_by_class_name('Nav_PN')
+            if cur_page_index == 1:
+                if not elements or len(elements) < 1:
+                    return events
+                elements[0].click() # Next Button
+            else:
+                if not elements or len(elements) < 2:
+                    return events
+                elements[1].click()  # Next Button
+            time.sleep(3)
+            cur_page_index += 1
     except Exception as err:
         print(err)
-        return
+        return events
+    finally:
+        driver.close()
 
 
 

@@ -1,0 +1,1213 @@
+1528215097418	geckodriver	INFO	geckodriver 0.20.1
+1528215097429	geckodriver	INFO	Listening on 127.0.0.1:61778
+1528215098436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.wV8UZWcLqBdo"
+2018-06-05 12:11:40.180 plugin-container[4275:85916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215100675	Marionette	INFO	Listening on port 61789
+1528215100745	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:11:41.080 plugin-container[4276:86012] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528215133052	geckodriver	INFO	geckodriver 0.20.1
+1528215133058	geckodriver	INFO	Listening on 127.0.0.1:62025
+1528215134084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.Av5U7Oth0pzG"
+2018-06-05 12:12:15.298 plugin-container[4299:86524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215135666	Marionette	INFO	Listening on port 62036
+1528215135749	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:12:16.218 plugin-container[4301:86616] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528215181748	geckodriver	INFO	geckodriver 0.20.1
+1528215181754	geckodriver	INFO	Listening on 127.0.0.1:62408
+1528215182772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.evTtp1eRlqDa"
+2018-06-05 12:13:04.001 plugin-container[4333:87860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215184404	Marionette	INFO	Listening on port 62419
+1528215184452	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:13:04.907 plugin-container[4334:87944] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528215359824	geckodriver	INFO	geckodriver 0.20.1
+1528215359829	geckodriver	INFO	Listening on 127.0.0.1:63407
+1528215360846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.0BuMnD2QDfaf"
+2018-06-05 12:16:02.042 plugin-container[4395:90242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x790b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215362445	Marionette	INFO	Listening on port 63418
+1528215362507	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:16:02.948 plugin-container[4396:90327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+2018-06-05 12:16:53.375 plugin-container[4402:90867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528215534376	geckodriver	INFO	geckodriver 0.20.1
+1528215534382	geckodriver	INFO	Listening on 127.0.0.1:64608
+1528215535400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.ThvvXzCEvHny"
+2018-06-05 12:18:56.554 plugin-container[4451:92547] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215536945	Marionette	INFO	Listening on port 64619
+1528215536966	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:18:57.475 plugin-container[4453:92635] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528215608768	geckodriver	INFO	geckodriver 0.20.1
+1528215608773	geckodriver	INFO	Listening on 127.0.0.1:65490
+1528215609786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.to8oPCYx0ra3"
+2018-06-05 12:20:10.993 plugin-container[4464:93634] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528215611396	Marionette	INFO	Listening on port 65501
+1528216009926	geckodriver	INFO	geckodriver 0.20.1
+1528216009931	geckodriver	INFO	Listening on 127.0.0.1:50866
+1528216010950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.UaNnKmdIGUhr"
+2018-06-05 12:26:52.099 plugin-container[4576:97583] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528216012483	Marionette	INFO	Listening on port 50877
+1528216012505	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:26:53.028 plugin-container[4577:97668] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528217804435	geckodriver	INFO	geckodriver 0.20.1
+1528217804441	geckodriver	INFO	Listening on 127.0.0.1:58819
+1528217805457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.TJqz6fgMaWAO"
+2018-06-05 12:56:46.706 plugin-container[5137:113743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528217807138	Marionette	INFO	Listening on port 58830
+1528217807233	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:56:47.583 plugin-container[5139:113829] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528217817655	geckodriver	INFO	geckodriver 0.20.1
+1528217817660	geckodriver	INFO	Listening on 127.0.0.1:58939
+1528217818684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.viPCDF4P0DLG"
+2018-06-05 12:56:59.823 plugin-container[5161:114583] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528217820214	Marionette	INFO	Listening on port 58950
+1528217820248	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 12:57:00.746 plugin-container[5162:114676] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5162, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528218104587	geckodriver	INFO	geckodriver 0.20.1
+1528218104593	geckodriver	INFO	Listening on 127.0.0.1:60622
+1528218105616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.Hpo8qT5Oms2E"
+2018-06-05 13:01:46.783 plugin-container[5246:118343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218107192	Marionette	INFO	Listening on port 60633
+1528218107272	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:01:47.709 plugin-container[5247:118439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528218145344	geckodriver	INFO	geckodriver 0.20.1
+1528218145350	geckodriver	INFO	Listening on 127.0.0.1:60916
+1528218146370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.P1iEw01mSo8K"
+2018-06-05 13:02:27.509 plugin-container[5274:119490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218147905	Marionette	INFO	Listening on port 60928
+1528218147948	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:02:28.428 plugin-container[5275:119571] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528218201847	geckodriver	INFO	geckodriver 0.20.1
+1528218201852	geckodriver	INFO	Listening on 127.0.0.1:61548
+1528218202869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.0jtTAdbp4Byn"
+2018-06-05 13:03:24.043 plugin-container[5304:120862] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218204456	Marionette	INFO	Listening on port 61560
+1528218204544	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:03:24.972 plugin-container[5305:120948] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://mtgtop8.com/archetype?a=12&meta=58&f=ST, line 368: ReferenceError: osdlfm is not defined
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528218386894	geckodriver	INFO	geckodriver 0.20.1
+1528218386900	geckodriver	INFO	Listening on 127.0.0.1:63055
+1528218387923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.RLbmhzukX21h"
+2018-06-05 13:06:29.085 plugin-container[5347:122928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218389447	Marionette	INFO	Listening on port 63066
+1528218389488	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:06:30.021 plugin-container[5348:123016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528218408933	geckodriver	INFO	geckodriver 0.20.1
+1528218408939	geckodriver	INFO	Listening on 127.0.0.1:63314
+1528218409953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.YHZB5f2y2m9d"
+2018-06-05 13:06:51.121 plugin-container[5370:123986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218411548	Marionette	INFO	Listening on port 63329
+1528218411615	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:06:52.060 plugin-container[5371:124073] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: ScriptUtils::loadScript() Error loading script : https://s.acexedge.com/2/tm75/analytics.js?si=654621&ac=651281&pc=1589306&cb=16842132039363346&di=mtgtop8.com&dt=2926111506981152170007https://s.acexedge.com/2/tm75/analytics.js?pp=44337&si=654621&di=mtgtop8.com&ac=651281&pc=1589306&ai=4116870262&dm=&ti=8290125b07be77abee7ea5562dcca51ce2a575aa_2.1&ui=WxbDLgAAAIRIkxAl&cb=16842132039363346&sr=16114&c2=3&r6=97546f2b5d5188e2e81785a59f156d19&dt=2926111444050714666007&md=DISPLAY&account_id=457748&ap=
+JavaScript error: , line 0: uncaught exception: ScriptUtils::loadScript() Error loading script : https://s.acexedge.com/2/tm75/analytics.js?pp=44337&si=654621&di=mtgtop8.com&ac=651281&pc=1589306&ai=4116870262&dm=&ti=8290125b07be77abee7ea5562dcca51ce2a575aa_2.1&ui=WxbDLgAAAIRIkxAl&cb=16842132039363346&sr=16114&c2=3&r6=97546f2b5d5188e2e81785a59f156d19&dt=2926111444050714666007&md=DISPLAY&account_id=457748&ap=
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5369, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5369, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528218829702	geckodriver	INFO	geckodriver 0.20.1
+1528218829707	geckodriver	INFO	Listening on 127.0.0.1:50466
+1528218830727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.XMSfvlWkdUZ9"
+2018-06-05 13:13:51.972 plugin-container[5424:129183] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528218832386	Marionette	INFO	Listening on port 50477
+1528218832511	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:13:52.889 plugin-container[5425:129268] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528218891578_211925&cb=1528218887888837#gi;paid=dbm;caid=18205620;plid=109067093;siteId=54373144464;publisherId=8;segment=;kv2=http://mtgtop8.com/archetype?a=289&meta=58&f=ST;kv7=8;lineItemId=4959099;kv11=ABAjH0iqGNGt_rYiT8BuLByLhcHk, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 1019: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1528219911242	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1528219911244	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1528219911245	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+1528219935219	geckodriver	INFO	geckodriver 0.20.1
+1528219935225	geckodriver	INFO	Listening on 127.0.0.1:54574
+1528219936243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.JwwHvmkqKVgv"
+2018-06-05 13:32:17.384 plugin-container[5551:137621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528219937789	Marionette	INFO	Listening on port 54585
+1528219937854	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:32:18.312 plugin-container[5552:137706] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_135_3_0/ebHtml5Banner.js, line 273: NS_ERROR_FAILURE: 
+JavaScript error: https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_239.js, line 154: TypeError: b.indexOf is not a function
+JavaScript error: https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_239.js, line 154: TypeError: b.indexOf is not a function
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528220404468_565291&cb=1528220401145#ss;paid=ss;avid=107263;caid=751926;publisherId=983419;kv5=1908;plid=2079479;segment=;kv4=12.24.128.76;kv14=;kv1=728x90;siteId=2874337;kv7=84;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv11=5b16caf1065289d002360054;kv3=fa076df3-d134-4d9e-b868-774d8b4e057c;kv2=http%3A%2F%2Fmtgtop8.com%2Farchetype%3Fa%3D150%26meta%3D58%26f%3DST;vwu=, line 1: NS_ERROR_NOT_INITIALIZED: 
+1528220667717	geckodriver	INFO	geckodriver 0.20.1
+1528220667722	geckodriver	INFO	Listening on 127.0.0.1:59156
+1528220668748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.DVlahrPckfmh"
+2018-06-05 13:44:29.870 plugin-container[5631:142867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528220670211	Marionette	INFO	Listening on port 59167
+1528220670270	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:44:30.791 plugin-container[5632:142955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528220754704_740936&cb=1528220753125005#gi;paid=dbm;caid=18205620;plid=109067093;siteId=54373144464;publisherId=6;segment=;kv2=http://mtgtop8.com/archetype?a=229&meta=58&f=ST;kv7=6;lineItemId=4959099;kv11=ABAjH0gHIOeQ8VWMsT3nwLcq3WyT, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528220888740_542848&cb=1528220885181#ss;paid=ss;avid=107263;caid=751926;publisherId=983419;kv5=1908;plid=2079479;segment=;kv4=12.24.128.76;kv14=;kv1=728x90;siteId=2874337;kv7=84;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv11=5b16ccd5067d035902360054;kv3=d9fcc6fb-3946-4a59-a27b-c7ab53fdab6e;kv2=http%3A%2F%2Fmtgtop8.com%2Farchetype%3Fa%3D229%26meta%3D58%26f%3DST;vwu=, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript warning: http://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-27/html/container.html?n=2, line 29: unreachable code after return statement
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-27/html/container.html?n=2, line 29: unreachable code after return statement
+1528221300468	geckodriver	INFO	geckodriver 0.20.1
+1528221300473	geckodriver	INFO	Listening on 127.0.0.1:63379
+1528221301496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.2OIO5gZe3GgL"
+2018-06-05 13:55:02.715 plugin-container[5718:148884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528221303118	Marionette	INFO	Listening on port 63390
+1528221303177	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:55:03.635 plugin-container[5719:148997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10003B,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528221422350_340860&cb=1528221419184939#gi;paid=dbm;caid=18205620;plid=109067093;siteId=54373144464;publisherId=8;segment=;kv2=http://mtgtop8.com/archetype?a=476&meta=58&f=ST;kv7=8;lineItemId=4959099;kv11=ABAjH0jwlaaho-HOT7ACwczWEdeu, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: ScriptUtils::loadScript() Error loading script : https://choices.truste.com/ca?pid=efrontier01&aid=efrontier01&cid=0911ef120x240&c=efrontier01cont1&w=728&h=90&plc=tl&js=10
+1528221532011	geckodriver	INFO	geckodriver 0.20.1
+1528221532017	geckodriver	INFO	Listening on 127.0.0.1:65409
+1528221533045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.YMG2V6byLMZI"
+2018-06-05 13:58:54.195 plugin-container[5751:151397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528221534570	Marionette	INFO	Listening on port 65420
+1528221534633	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 13:58:55.121 plugin-container[5752:151487] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/ads/studio/Enabler.js, line 62: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/ads/studio/Enabler.js, line 62: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/ads/studio/Enabler.js, line 62: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/ads/studio/Enabler.js, line 62: NS_ERROR_NOT_INITIALIZED: 
+1528221766287	geckodriver	INFO	geckodriver 0.20.1
+1528221766293	geckodriver	INFO	Listening on 127.0.0.1:50714
+1528221767322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.5ibZ6SXEHNXy"
+2018-06-05 14:02:48.424 plugin-container[5778:153508] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528221768826	Marionette	INFO	Listening on port 50725
+1528221768897	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:02:49.346 plugin-container[5779:153598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x840b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528221814154	geckodriver	INFO	geckodriver 0.20.1
+1528221814160	geckodriver	INFO	Listening on 127.0.0.1:51086
+1528221815189	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.D2c2rdN2iXO0"
+2018-06-05 14:03:36.299 plugin-container[5787:154125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528221816683	Marionette	INFO	Listening on port 51093
+1528221816698	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:03:37.228 plugin-container[5788:154205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528221877138	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528221990722_796342&cb=1528221971728302#gi;paid=dbm;caid=18205620;plid=109067093;siteId=54373144464;publisherId=8;segment=;kv2=http://mtgtop8.com/archetype?a=221&meta=58&f=ST;kv7=8;lineItemId=4959099;kv11=ABAjH0jxR5t6zMkIbJIDMncU8E1u, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+1528222448795	geckodriver	INFO	geckodriver 0.20.1
+1528222448801	geckodriver	INFO	Listening on 127.0.0.1:55156
+1528222449822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.zuAaNvrq4kEi"
+2018-06-05 14:14:10.996 plugin-container[5885:160419] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528222451413	Marionette	INFO	Listening on port 55167
+1528222451499	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:14:11.917 plugin-container[5886:160506] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn.flashtalking.com/84919/2143133/anim.js, line 134: ReferenceError: Elastic is not defined
+JavaScript error: https://cdn.flashtalking.com/84919/2143133/anim.js, line 134: ReferenceError: Elastic is not defined
+JavaScript error: https://cdn.flashtalking.com/84919/2143133/anim.js, line 44: ReferenceError: TimelineLite is not defined
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: ScriptUtils::loadScript() Error loading script : https://s.acexedge.com/2/tm75/analytics.js?pp=103323&si=654621&di=mtgtop8.com&ac=665959&pc=1815272&ai=4117056233&dm=&ti=200-1-3-1527156506175979.1&ui=WxbS_QAAAJJMb1dN&cb=-3343183899909154915&sr=10634&c2=3&r6=97546f2b5d5188e2e81785a59f156d19&dt=2926111444050714666007&md=DISPLAY&account_id=453589&ap=
+JavaScript error: https://cdn.doubleverify.com/dv-measurements227.js, line 25: TypeError: this.m(...) is null
+1528222838385	geckodriver	INFO	geckodriver 0.20.1
+1528222838390	geckodriver	INFO	Listening on 127.0.0.1:58091
+1528222839424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.BRsGzoKAuQoh"
+2018-06-05 14:20:40.590 plugin-container[5955:165541] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528222840994	Marionette	INFO	Listening on port 58102
+1528222841075	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:20:41.520 plugin-container[5956:165635] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528222886056	geckodriver	INFO	geckodriver 0.20.1
+1528222886062	geckodriver	INFO	Listening on 127.0.0.1:58599
+1528222887075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.56zVEMgnKzP0"
+2018-06-05 14:21:28.296 plugin-container[5976:166756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528222888749	Marionette	INFO	Listening on port 58611
+1528222888853	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:21:29.202 plugin-container[5977:166859] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5976, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528222989841	geckodriver	INFO	geckodriver 0.20.1
+1528222989847	geckodriver	INFO	Listening on 127.0.0.1:59428
+1528222990861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.YK4m4fc43xW5"
+2018-06-05 14:23:12.088 plugin-container[5990:168056] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528222992540	Marionette	INFO	Listening on port 59435
+1528222992640	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:23:13.089 plugin-container[5991:168152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdn.flashtalking.com/85861/2103279/anim.js, line 97: ReferenceError: Elastic is not defined
+JavaScript error: https://cdn.flashtalking.com/85861/2103279/anim.js, line 97: ReferenceError: Elastic is not defined
+JavaScript error: https://cdn.flashtalking.com/85861/2103279/anim.js, line 31: ReferenceError: TimelineLite is not defined
+JavaScript error: https://s0.2mdn.net/4995718/1526367574567/US%20SP%20Summer%202018%20-%20Amsterdam%20-%20US%20-%20728x90%20-%20photographic%20-%20price%20from%20$89.js, line 14: TypeError: cjs.Bitmap is not a constructor
+JavaScript error: http://mtgtop8.com/archetype?a=289&meta=58&f=ST, line 9: SyntaxError: unexpected token: identifier
+JavaScript error: https://cdn.doubleverify.com/dv-measurements227.js, line 25: TypeError: this.m(...) is null
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528223420743_578843&cb=1528223418603#ss;paid=ss;avid=112415;caid=794159;publisherId=73726;kv5=;plid=2336017;segment=;kv4=12.24.128.76;kv14=;kv1=728x90;siteId=194501;kv7=3;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv11=5b16d6ba9d6fb28f016f0003;kv3=0ae5c563-73a2-430d-a8a7-07dd8f782c02;kv2=http%3A%2F%2Fmtgtop8.com%2Farchetype%3Fa%3D289%26meta%3D58%26f%3DST;vwu=, line 1: NS_ERROR_NOT_INITIALIZED: 
+1528223823647	geckodriver	INFO	geckodriver 0.20.1
+1528223823652	geckodriver	INFO	Listening on 127.0.0.1:64667
+1528223824663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.6uHYcpe4T3XV"
+2018-06-05 14:37:05.844 plugin-container[6109:176204] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528223826269	Marionette	INFO	Listening on port 64678
+1528223826326	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:37:06.764 plugin-container[6111:176293] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/4995718/1526367669310/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20photographic%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+1528224233643	geckodriver	INFO	geckodriver 0.20.1
+1528224233650	geckodriver	INFO	Listening on 127.0.0.1:51505
+1528224234662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.qedkgXy2vQkA"
+2018-06-05 14:43:55.858 plugin-container[6157:180871] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528224236260	Marionette	INFO	Listening on port 51516
+1528224236319	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:43:56.788 plugin-container[6158:180957] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/4995718/1526367665640/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20illustrative%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+JavaScript error: https://s0.2mdn.net/4995718/1526367665640/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20illustrative%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+JavaScript warning: http://mtgtop8.com/archetype?a=229&meta=58&f=ST, line 23: unreachable code after return statement
+JavaScript warning: http://mtgtop8.com/archetype?a=229&meta=58&f=ST, line 23: unreachable code after return statement
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+1528224865957	geckodriver	INFO	geckodriver 0.20.1
+1528224865963	geckodriver	INFO	Listening on 127.0.0.1:55933
+1528224866972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.lb4UGqofXC13"
+2018-06-05 14:54:28.286 plugin-container[6232:186360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528224868727	Marionette	INFO	Listening on port 55944
+1528224868833	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 14:54:29.196 plugin-container[6234:186461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528225309048	geckodriver	INFO	geckodriver 0.20.1
+1528225309056	geckodriver	INFO	Listening on 127.0.0.1:59104
+1528225310065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.xGebTNLV8ups"
+2018-06-05 15:01:51.269 plugin-container[6282:189899] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528225311688	Marionette	INFO	Listening on port 59115
+1528225311712	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:01:52.191 plugin-container[6283:189984] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528225401955_636823&cb=1528225400475#ss;paid=ss;avid=76979;caid=701984;publisherId=73726;kv5=;plid=1513869;segment=;kv4=12.24.128.76;kv14=;kv1=728x90;siteId=194501;kv7=3;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv11=5b16de78acbc9d6900980003;kv3=a6d9c068-5f5a-43c3-871c-23db56bcc808;kv2=http%3A%2F%2Fmtgtop8.com%2Farchetype%3Fa%3D333%26meta%3D58%26f%3DST;vwu=, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://cdn.adrta.com/p.js?rcb=1528225418840_555859&cb=1528225416797#ss;paid=ss;avid=112484;caid=743429;publisherId=73726;kv5=;plid=2231670;segment=3172,3164,3196;kv4=12.24.128.76;kv14=;kv1=728x90;siteId=194501;kv7=3;kv15=UNKNOWN;kv16=;kv17=;kv18=;kv24=WEB;kv20=;kv21=;kv22=;kv11=5b16de88b6a03d2c007e0003;kv3=a6d9c068-5f5a-43c3-871c-23db56bcc808;kv2=http%3A%2F%2Fmtgtop8.com%2Farchetype%3Fa%3D333%26meta%3D58%26f%3DST;vwu=, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-27/html/container.html?n=2, line 29: unreachable code after return statement
+JavaScript warning: http://tpc.googlesyndication.com/safeframe/1-0-27/html/container.html?n=2, line 29: unreachable code after return statement
+1528225731263	geckodriver	INFO	geckodriver 0.20.1
+1528225731270	geckodriver	INFO	Listening on 127.0.0.1:62107
+1528225732283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.77nMs9MYJreZ"
+2018-06-05 15:08:53.464 plugin-container[6338:195939] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528225733844	Marionette	INFO	Listening on port 62118
+1528225733930	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:08:54.383 plugin-container[6339:196022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/4995718/1526367665640/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20illustrative%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+1528226126290	geckodriver	INFO	geckodriver 0.20.1
+1528226126295	geckodriver	INFO	Listening on 127.0.0.1:64900
+1528226127310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.48r534r44QRK"
+2018-06-05 15:15:28.445 plugin-container[6386:199653] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528226128843	Marionette	INFO	Listening on port 64911
+1528226128878	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:15:29.365 plugin-container[6387:199742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/4995718/1523446212790/728x90/js/banner.loader.js, line 34: ReferenceError: Enabler is not defined
+JavaScript error: http://dco-assets.everestads.net/ics-campaign//5021/t/5696/2/728x90_edgePreload.js, line 32: ReferenceError: _introOver is not defined
+JavaScript error: https://s0.2mdn.net/4995718/1526367665640/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20illustrative%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528226479481	geckodriver	INFO	geckodriver 0.20.1
+1528226479486	geckodriver	INFO	Listening on 127.0.0.1:51390
+1528226480502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.94oilo2ia8jT"
+2018-06-05 15:21:21.616 plugin-container[6428:203509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528226481997	Marionette	INFO	Listening on port 51397
+1528226482066	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:21:22.540 plugin-container[6430:203607] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528226713262	geckodriver	INFO	geckodriver 0.20.1
+1528226713268	geckodriver	INFO	Listening on 127.0.0.1:53031
+1528226714286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.9zeQOUEc8xwQ"
+2018-06-05 15:25:15.416 plugin-container[6476:206205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528226715759	Marionette	INFO	Listening on port 53038
+1528226715858	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:25:16.334 plugin-container[6477:206300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528226784009	geckodriver	INFO	geckodriver 0.20.1
+1528226784015	geckodriver	INFO	Listening on 127.0.0.1:53715
+1528226785028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.kugZ1PKILkPv"
+2018-06-05 15:26:26.211 plugin-container[6492:207314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528226786600	Marionette	INFO	Listening on port 53726
+1528226786695	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:26:27.127 plugin-container[6493:207402] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript warning: http://c1.rfihub.net/js/bcS.js, line 132: unreachable code after return statement
+JavaScript error: http://adadvisor.net/adscores/g.js?sid=9276253823, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: http://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://s0.2mdn.net/4720433/1527104590754/en_728x90_intro+rock+us_websiteconversion_banner/banner.js, line 423: TypeError: TimelineMax is undefined
+1528226917004	geckodriver	INFO	geckodriver 0.20.1
+1528226917010	geckodriver	INFO	Listening on 127.0.0.1:54999
+1528226918024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.qv3SFOvDVj54"
+2018-06-05 15:28:39.155 plugin-container[6522:208800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528226919521	Marionette	INFO	Listening on port 55010
+1528226919592	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:28:40.073 plugin-container[6523:208887] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/4995718/1526367669310/US%20SP%20Summer%202018%20-%20Paris%20-%20US%20-%20728x90%20-%20photographic%20-%20price%20from%20$112.js, line 14: TypeError: cjs.Bitmap is not a constructor
+JavaScript error: https://s0.2mdn.net/3966738/1519943204633/728x90.js, line 17: TypeError: cjs.Bitmap is not a constructor
+1528227203118	geckodriver	INFO	geckodriver 0.20.1
+1528227203124	geckodriver	INFO	Listening on 127.0.0.1:57276
+1528227204140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.nXUI1xON4dlh"
+2018-06-05 15:33:25.293 plugin-container[6575:213063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227205697	Marionette	INFO	Listening on port 57287
+1528227205707	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:33:26.202 plugin-container[6576:213160] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227549833	geckodriver	INFO	geckodriver 0.20.1
+1528227549839	geckodriver	INFO	Listening on 127.0.0.1:59854
+1528227550868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.kYBgOlywjyZR"
+2018-06-05 15:39:12.009 plugin-container[6691:217333] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227552414	Marionette	INFO	Listening on port 59865
+1528227552444	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:39:12.928 plugin-container[6692:217418] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227576388	geckodriver	INFO	geckodriver 0.20.1
+1528227576394	geckodriver	INFO	Listening on 127.0.0.1:60154
+1528227577416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.1tlHnLeUYFuH"
+2018-06-05 15:39:38.557 plugin-container[6698:218030] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227578945	Marionette	INFO	Listening on port 60168
+1528227578985	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:39:39.482 plugin-container[6699:218136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227610565	geckodriver	INFO	geckodriver 0.20.1
+1528227610570	geckodriver	INFO	Listening on 127.0.0.1:60671
+1528227611597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.SjugdUXrD697"
+2018-06-05 15:40:12.836 plugin-container[6715:218701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227613251	Marionette	INFO	Listening on port 60692
+1528227613361	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:40:13.734 plugin-container[6716:218792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227658363	geckodriver	INFO	geckodriver 0.20.1
+1528227658369	geckodriver	INFO	Listening on 127.0.0.1:61504
+1528227659393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.PQbpO2JuZzLo"
+2018-06-05 15:41:00.632 plugin-container[6740:219626] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227661067	Marionette	INFO	Listening on port 61528
+1528227661074	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:41:01.545 plugin-container[6741:219887] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+1528227774062	geckodriver	INFO	geckodriver 0.20.1
+1528227774069	geckodriver	INFO	Listening on 127.0.0.1:62573
+1528227775082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.dadPsQKHVrQx"
+2018-06-05 15:42:56.409 plugin-container[6782:221821] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227776854	Marionette	INFO	Listening on port 62590
+1528227776869	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:42:57.285 plugin-container[6783:221967] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6698, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 6698, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 6698, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528227850319	geckodriver	INFO	geckodriver 0.20.1
+1528227850325	geckodriver	INFO	Listening on 127.0.0.1:63248
+1528227851345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.WlabdsxBnlP1"
+2018-06-05 15:44:12.647 plugin-container[6825:223262] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:600:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:600:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+1528227853072	Marionette	INFO	Listening on port 63255
+1528227853136	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:44:13.551 plugin-container[6826:223353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227870972	geckodriver	INFO	geckodriver 0.20.1
+1528227870978	geckodriver	INFO	Listening on 127.0.0.1:63528
+1528227872001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.IKenzwIIMkMj"
+2018-06-05 15:44:33.169 plugin-container[6833:223787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227873545	Marionette	INFO	Listening on port 63547
+1528227873588	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:44:34.083 plugin-container[6834:223868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227896472	geckodriver	INFO	geckodriver 0.20.1
+1528227896478	geckodriver	INFO	Listening on 127.0.0.1:63804
+1528227897496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.DQbbHjOFeGwO"
+2018-06-05 15:44:58.907 plugin-container[6850:224353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227899385	Marionette	INFO	Listening on port 63849
+1528227899492	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:44:59.879 plugin-container[6851:224439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528227947554	geckodriver	INFO	geckodriver 0.20.1
+1528227947560	geckodriver	INFO	Listening on 127.0.0.1:64447
+1528227948586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.CZOelUU2esH5"
+1528227960101	geckodriver	INFO	geckodriver 0.20.1
+1528227960108	geckodriver	INFO	Listening on 127.0.0.1:64522
+1528227961125	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.PGMfpX9aq4HN"
+2018-06-05 15:46:02.312 plugin-container[6885:225512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x820b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528227962690	Marionette	INFO	Listening on port 64533
+1528227962704	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:46:03.235 plugin-container[6886:225596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528228028474	geckodriver	INFO	geckodriver 0.20.1
+1528228028480	geckodriver	INFO	Listening on 127.0.0.1:65060
+1528228029499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.uPUHyR4HkY4M"
+2018-06-05 15:47:10.697 plugin-container[6908:226354] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228031116	Marionette	INFO	Listening on port 65071
+1528228031193	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:47:11.603 plugin-container[6909:226449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6909, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528228046383	geckodriver	INFO	geckodriver 0.20.1
+1528228046389	geckodriver	INFO	Listening on 127.0.0.1:65184
+1528228047401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.J73fBq7ZN819"
+2018-06-05 15:47:28.534 plugin-container[6932:227345] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228048886	Marionette	INFO	Listening on port 65196
+1528228048973	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:47:29.454 plugin-container[6933:227445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528228073508	geckodriver	INFO	geckodriver 0.20.1
+1528228073514	geckodriver	INFO	Listening on 127.0.0.1:65344
+1528228074531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.TgwwhckOfxI6"
+2018-06-05 15:47:55.698 plugin-container[6951:228397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228076062	Marionette	INFO	Listening on port 65355
+1528228076103	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:47:56.623 plugin-container[6953:228493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528228237221	geckodriver	INFO	geckodriver 0.20.1
+1528228237226	geckodriver	INFO	Listening on 127.0.0.1:49885
+1528228238246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.SDkTFCFc23tU"
+2018-06-05 15:50:39.421 plugin-container[7022:230908] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228239789	Marionette	INFO	Listening on port 49896
+1528228239820	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:50:40.360 plugin-container[7023:230993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528228391678	geckodriver	INFO	geckodriver 0.20.1
+1528228391684	geckodriver	INFO	Listening on 127.0.0.1:50639
+1528228392702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.CGXrPaTh9R4H"
+2018-06-05 15:53:13.840 plugin-container[7057:233164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228394191	Marionette	INFO	Listening on port 50650
+1528228394260	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 15:53:14.762 plugin-container[7058:233253] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-06-05 16:01:33.532 plugin-container[7157:239000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528228950687	geckodriver	INFO	geckodriver 0.20.1
+1528228950693	geckodriver	INFO	Listening on 127.0.0.1:53285
+1528228951716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.3kMejTCEvSth"
+2018-06-05 16:02:32.870 plugin-container[7185:240207] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528228953269	Marionette	INFO	Listening on port 53297
+1528228953288	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:02:33.793 plugin-container[7186:240294] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js 369 WalkerFront<.getMutations</<
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 928 process
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 812 walkerLoop
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 748 scheduleWalkerLoop/<
+console.error: "[Exception... \"Component is not available\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js :: get displayType :: line 232\"  data: no]: get displayType@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:232:5\n_onReflows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/walker.js:314:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_startEventLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/reflow.js:312:7\nnotify@resource://gre/modules/Timer.jsm:44:7\n"
+[Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js :: get displayType :: line 232"  data: no]: get displayType@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:232:5
+_onReflows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/walker.js:314:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_startEventLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/reflow.js:312:7
+notify@resource://gre/modules/Timer.jsm:44:7
+
+console.error: "Error writing response to: children"
+console.error: ({})
+get displayType@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:232:5
+form@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:104:7
+write@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:317:44
+write/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:206:40
+write@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:206:24
+write@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:240:23
+write@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:566:12
+write/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:723:16
+write@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:721:23
+sendReturn@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1116:24
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11
+console.error: "unknownError"
+console.warn: "Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js 369 WalkerFront<.getMutations</<
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 928 process
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 812 walkerLoop
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 748 scheduleWalkerLoop/<
+1528229020674	geckodriver	INFO	geckodriver 0.20.1
+1528229020680	geckodriver	INFO	Listening on 127.0.0.1:53884
+1528229021692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.tDpu6OiExtko"
+2018-06-05 16:03:42.986 plugin-container[7196:240980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528229023357	Marionette	INFO	Listening on port 53896
+1528229023457	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:03:43.833 plugin-container[7197:241073] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528229088114	geckodriver	INFO	geckodriver 0.20.1
+1528229088120	geckodriver	INFO	Listening on 127.0.0.1:54617
+1528229089134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.MDmwHuD1RhOw"
+2018-06-05 16:04:50.521 plugin-container[7210:242025] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528229091074	Marionette	INFO	Listening on port 54629
+1528229091131	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:04:51.462 plugin-container[7211:242107] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528229157291	geckodriver	INFO	geckodriver 0.20.1
+1528229157300	geckodriver	INFO	Listening on 127.0.0.1:55395
+1528229158309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.WdHbcdnb1Cl1"
+2018-06-05 16:05:59.755 plugin-container[7222:243238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528229160221	Marionette	INFO	Listening on port 55407
+1528229160304	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:06:00.771 plugin-container[7223:243334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 57: TypeError: window is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7196, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528229850123	geckodriver	INFO	geckodriver 0.20.1
+1528229850129	geckodriver	INFO	Listening on 127.0.0.1:58294
+1528229851143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.yRwCUxvEDtyn"
+2018-06-05 16:17:32.343 plugin-container[7414:251698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7603, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528229852754	Marionette	INFO	Listening on port 58305
+1528229852834	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:17:33.268 plugin-container[7415:251783] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528229999700	geckodriver	INFO	geckodriver 0.20.1
+1528229999706	geckodriver	INFO	Listening on 127.0.0.1:59148
+1528230000727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.MvSWUXP6JbhR"
+2018-06-05 16:20:01.883 plugin-container[7445:253866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230002260	Marionette	INFO	Listening on port 59159
+1528230002299	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:20:02.803 plugin-container[7446:253945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-06-05 16:20:25.819 plugin-container[7451:254310] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230086040	geckodriver	INFO	geckodriver 0.20.1
+1528230086046	geckodriver	INFO	Listening on 127.0.0.1:59743
+1528230087065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.Hc1H2pzBWJff"
+2018-06-05 16:21:28.267 plugin-container[7475:255218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230088683	Marionette	INFO	Listening on port 59754
+1528230088733	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:21:29.168 plugin-container[7476:255310] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528230147488	geckodriver	INFO	geckodriver 0.20.1
+1528230147494	geckodriver	INFO	Listening on 127.0.0.1:60196
+1528230148514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.tWXWuD2qFDEv"
+2018-06-05 16:22:29.742 plugin-container[7500:256300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230150179	Marionette	INFO	Listening on port 60208
+1528230150190	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:22:30.664 plugin-container[7502:256391] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528230424223	geckodriver	INFO	geckodriver 0.20.1
+1528230424229	geckodriver	INFO	Listening on 127.0.0.1:61406
+1528230425249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.X7N7IJLxxzcu"
+2018-06-05 16:27:06.497 plugin-container[7548:258912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230426928	Marionette	INFO	Listening on port 61417
+1528230427022	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:27:07.397 plugin-container[7549:259003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7549, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528230486600	geckodriver	INFO	geckodriver 0.20.1
+1528230486606	geckodriver	INFO	Listening on 127.0.0.1:61889
+1528230487618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.THWwXVgORXln"
+2018-06-05 16:28:08.859 plugin-container[7582:260098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230489268	Marionette	INFO	Listening on port 61896
+1528230489286	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:28:09.756 plugin-container[7583:260188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528230594350	geckodriver	INFO	geckodriver 0.20.1
+1528230594357	geckodriver	INFO	Listening on 127.0.0.1:62427
+1528230595378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.yJ76QWnEvvfF"
+2018-06-05 16:29:56.687 plugin-container[7623:262104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528230597130	Marionette	INFO	Listening on port 62439
+1528230597155	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:29:57.594 plugin-container[7624:262189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7414, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 7414, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7623, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528231205030	geckodriver	INFO	geckodriver 0.20.1
+1528231205036	geckodriver	INFO	Listening on 127.0.0.1:64913
+1528231206056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.SncVhdldljHh"
+2018-06-05 16:40:07.202 plugin-container[7754:269159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231207614	Marionette	INFO	Listening on port 64920
+1528231207726	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:40:08.122 plugin-container[7755:269245] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231282718	geckodriver	INFO	geckodriver 0.20.1
+1528231282724	geckodriver	INFO	Listening on 127.0.0.1:49666
+1528231283746	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.VrTdyNL4MiMR"
+2018-06-05 16:41:24.908 plugin-container[7767:270281] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231285272	Marionette	INFO	Listening on port 49674
+1528231285314	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:41:25.819 plugin-container[7768:270375] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231347476	geckodriver	INFO	geckodriver 0.20.1
+1528231347482	geckodriver	INFO	Listening on 127.0.0.1:50424
+1528231348502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.vXzKOC8tTIx1"
+2018-06-05 16:42:29.653 plugin-container[7788:271128] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231350042	Marionette	INFO	Listening on port 50435
+1528231350092	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:42:30.582 plugin-container[7789:271216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231473632	geckodriver	INFO	geckodriver 0.20.1
+1528231473638	geckodriver	INFO	Listening on 127.0.0.1:51860
+1528231474657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.6vbrO4YiedQZ"
+2018-06-05 16:44:35.914 plugin-container[7818:272824] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231476363	Marionette	INFO	Listening on port 51871
+1528231476432	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:44:36.837 plugin-container[7819:272910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528231508607	geckodriver	INFO	geckodriver 0.20.1
+1528231508612	geckodriver	INFO	Listening on 127.0.0.1:52164
+1528231509631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.WB8XoWG8VXdd"
+2018-06-05 16:45:10.839 plugin-container[7841:273924] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231511238	Marionette	INFO	Listening on port 52175
+1528231511300	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:45:11.758 plugin-container[7843:274037] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231610122	geckodriver	INFO	geckodriver 0.20.1
+1528231610127	geckodriver	INFO	Listening on 127.0.0.1:53387
+1528231611148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.ymSgBZyS2BB6"
+2018-06-05 16:46:52.401 plugin-container[7863:275697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231612853	Marionette	INFO	Listening on port 53409
+1528231612927	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:46:53.336 plugin-container[7864:275784] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528231644888	geckodriver	INFO	geckodriver 0.20.1
+1528231644898	geckodriver	INFO	Listening on 127.0.0.1:53920
+1528231645908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.KBuMHtknMtER"
+2018-06-05 16:47:27.093 plugin-container[7875:276609] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231647489	Marionette	INFO	Listening on port 53938
+1528231647593	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:47:28.023 plugin-container[7876:276709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231724596	geckodriver	INFO	geckodriver 0.20.1
+1528231724602	geckodriver	INFO	Listening on 127.0.0.1:54688
+1528231725620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.5YfwZDboS4FO"
+2018-06-05 16:48:46.785 plugin-container[7920:278268] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231727137	Marionette	INFO	Listening on port 54700
+1528231727196	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:48:47.702 plugin-container[7921:278356] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231803805	geckodriver	INFO	geckodriver 0.20.1
+1528231803810	geckodriver	INFO	Listening on 127.0.0.1:55992
+1528231804824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.jxFe1H2HILJZ"
+2018-06-05 16:50:06.074 plugin-container[7932:279281] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231806472	Marionette	INFO	Listening on port 56003
+1528231806520	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:50:07.028 plugin-container[7933:279374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528231911566	geckodriver	INFO	geckodriver 0.20.1
+1528231911571	geckodriver	INFO	Listening on 127.0.0.1:56972
+1528231912593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.YREwDhsZitgq"
+1528231916890	geckodriver	INFO	geckodriver 0.20.1
+1528231916896	geckodriver	INFO	Listening on 127.0.0.1:57009
+1528231917914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.LpxoVlTo4JX5"
+2018-06-05 16:51:59.050 plugin-container[7986:281335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231919405	Marionette	INFO	Listening on port 57020
+1528231919484	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:51:59.977 plugin-container[7987:281420] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528231977354	geckodriver	INFO	geckodriver 0.20.1
+1528231977359	geckodriver	INFO	Listening on 127.0.0.1:58043
+1528231978371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.4qnKwy852Doz"
+2018-06-05 16:52:59.499 plugin-container[7996:282051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528231979880	Marionette	INFO	Listening on port 58050
+1528231979943	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:53:00.421 plugin-container[7997:282137] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528232046456	geckodriver	INFO	geckodriver 0.20.1
+1528232046462	geckodriver	INFO	Listening on 127.0.0.1:59254
+1528232047472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.Oqxl1TbqbRin"
+2018-06-05 16:54:08.721 plugin-container[8013:283286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528232049165	Marionette	INFO	Listening on port 59268
+1528232049245	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:54:09.610 plugin-container[8014:283372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1528232108543	geckodriver	INFO	geckodriver 0.20.1
+1528232108549	geckodriver	INFO	Listening on 127.0.0.1:60327
+1528232109566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.aaxUFQ2GVmGh"
+2018-06-05 16:55:10.758 plugin-container[8023:284437] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528232111160	Marionette	INFO	Listening on port 60339
+1528232111233	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-05 16:55:11.665 plugin-container[8024:284540] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://mtgtop8.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1528232154472	geckodriver	INFO	geckodriver 0.20.1
+1528232154478	geckodriver	INFO	Listening on 127.0.0.1:60684
+1528232155496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/z3/5_w069cs25n50thv6w99tjv00000gn/T/rust_mozprofile.eLmTYnIRQZ5r"
+2018-06-05 16:55:56.695 plugin-container[8065:285940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.

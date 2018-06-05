@@ -1,8 +1,8 @@
 config = {
     "mongo": {
-        "hostname": "",
+        "hostname": "165.227.69.202",
         "username": "root",
-        "password": "",
+        "password": "88LB010288a",
         "port": "27017",
         "database": "mtg"
     }
