@@ -1,0 +1,23 @@
+card = {
+    "name": "",
+    "score": "",
+    "colours": [],
+}
+
+deck rank to card score conversion:
+score = the sum of the ranks of all the decks the card played in / the number of decks that card played in
+
+
+ 1.0 + 0.7 = 1.7
+
+ 0.7
+
+// Deck
+{
+    "title": "NameOfDeck",
+    "event": "",
+    "eventDate": "",
+    "rank": "",
+    "cards": [],
+    "time_created_unix": (unix_timestamp)
+}
