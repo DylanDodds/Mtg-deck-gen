@@ -4,33 +4,50 @@ from mtgtop8_scraper.data import utils
 from mtgtop8_scraper.data.data_agent import DataAgent
 from datetime import datetime
 import time
+import threading
 
 def main():
     global decks
     decks = []
-
 
     url_root = 'http://mtgtop8.com/'
     raw_html = utils.simple_get('http://mtgtop8.com/format?f=ST&meta=58') # All Standard Decks
     if raw_html:
         html = BeautifulSoup(raw_html, 'html.parser')
 
-        # For every deck name on the list
         for a in html.select('a'):
             if 'archetype' in a['href']:
                 deck = {'name': a.text, 'url': url_root + a['href']}
                 decks.append(deck)
+
     else:
         print("Could not load main page")
         return 0
 
+    # multitask
+    threads = []
+    for deck in decks:
+        processThread = threading.Thread(target=scrape_process, args=[deck])
+        processThread.start()
+        threads.append(processThread)
+
+        if len(threads) >= 16:
+            for thread in threads:
+                thread.join()
+            threads = []
+
+    print("Done scraping events")
+
+
+def scrape_process(deck):
     data_agent = DataAgent()
-    # Iterate through every deck page
-    for i in range(0, len(decks)):
-        events = scrape_events(decks[i]['url'])
+    try:
+        events = scrape_events(deck['url'])
         for event in events:
             data_agent.push_event(event)
-    print("Done scraping events")
+    except:
+        return
+
 
 
 def scrape_events(url):
@@ -43,12 +60,16 @@ def scrape_events(url):
         cur_page_index = 1
 
         while True:
-            raw_html = driver.page_source
-            html = BeautifulSoup(raw_html, 'html.parser')
-            table = html.select('table')[4]
+            try:
+                raw_html = driver.page_source
+                html = BeautifulSoup(raw_html, 'html.parser')
+                table = html.select('table')[4]
 
-            index = 0
-            trs = table.select('tr')
+                index = 0
+                trs = table.select('tr')
+            except:
+                print("error, retrying, while True: loop")
+
             for tr in trs:
                 if index < 2:
                     index += 1
