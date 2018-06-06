@@ -37,15 +37,14 @@ class DataAgent:
     def add_event_to_existing_card(self, card_title, event_id):
         try:
             self.database.cards.update_one({'title': card_title, 'events': {'$nin': [event_id]}},
-                                           {'$push': {'events': event_id}}, upsert=False)
+                                           {'$push': {'events': event_id}})
         except Exception as err:
             print('[DataAgent] Failed to update card... ', str(err))
             return False
 
-    def add_card_to_existing_event(self, card_id, event_id):
+    def set_cards_of_existing_event(self, cards, event_id):
         try:
-            self.database.events.update_one({'_id': event_id, 'cards': {'$nin': [card_id]}},
-                                            {'$push': {'cards': card_id}}, upsert=False)
+            self.database.events.update_one({'_id': event_id}, {'$set': {'cards': cards}})
         except Exception as err:
             print('[DataAgent] Failed to update event... ', str(err))
             return False

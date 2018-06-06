@@ -10,7 +10,7 @@ def main():
 
     threads = []
     on = 0
-    start_point = 168
+    start_point = 152
     end_point = 2000
     for event in events:
         on += 1
@@ -24,7 +24,7 @@ def main():
         processThread.start()
         threads.append(processThread)
 
-        if len(threads) >= 6:
+        if len(threads) >= 8:
             for thread in threads:
                 thread.join()
             threads = []
@@ -47,18 +47,18 @@ def process(event, data_agent):
             }
             cards.append(card)
 
-        card_id = None
+        card_ids = []
         for card in cards:
             data = data_agent.find_cards({'title': card['title']})
             if data is not None and len(data) > 0:
                 data_agent.add_event_to_existing_card(card['title'], event['_id'])
-                card_id = data['_id']
+                card_ids.append(data[0]['_id'])
             else:
-                card_id = data_agent.push_card(card)
-            data_agent.add_card_to_existing_event(card_id, event['_id'])
+                card_ids.append(data_agent.push_card(card))
+        data_agent.set_cards_of_existing_event(card_ids, event['_id'])
 
-    except:
-        return
+    except Exception as ex:
+        print("Exception occurred in data process", str(ex))
     finally:
         driver.close()
 

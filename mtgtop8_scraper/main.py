@@ -8,6 +8,7 @@ import time
 import threading
 
 def main():
+    print("started")
     global decks
     decks = []
 
@@ -30,9 +31,10 @@ def main():
     record = 0
     on = 0
     start_pos = 24
+    print("hit deck loop")
     for deck in decks:
         on += 1
-        while on < start_pos:
+        if on < start_pos:
             continue
 
         processThread = threading.Thread(target=scrape_process, args=[deck])
@@ -43,7 +45,7 @@ def main():
             for thread in threads:
                 thread.join()
             threads = []
-        print("decks: {}/{}".format(str(on), str(len(decks))))
+            print("decks: {}/{}".format(str(on), str(len(decks))))
 
     print("Done scraping events")
 
