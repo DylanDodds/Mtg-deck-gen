@@ -18,54 +18,37 @@ def main():
         processThread.start()
         threads.append(processThread)
 
-        if len(threads) >= 16:
+        if len(threads) >= 2:
             for thread in threads:
                 thread.join()
             threads = []
 
+
 def process(event, data_agent):
-    cards = []
-    url = event['event_url']
-    driver = webdriver.Firefox()
-    driver.get(url)
+    try:
+        cards = []
+        url = event['event_url']
+        driver = webdriver.Firefox()
+        driver.get(url)
 
-
-    card_trs = driver.find_elements_by_class_name('G14')
-
-
-    for card_tr in card_trs:
-        try:
-            card_tr.click()
-            time.sleep(1)
-
-            raw_html = driver.page_source
-            html = BeautifulSoup(raw_html, 'html.parser')
-
-            colors = []
-            # select all images on the page and find color images
-            images = driver.find_elements_by_css_selector('img')
-            for image in images:
-                color = getColor(image.get_attribute('src'))
-                if color is not None and color not in colors:
-                    colors.append(color)
-
+        card_spans = driver.find_elements_by_class_name('L14')
+        for card_span in card_spans:
             card = {
-                "title": driver.find_elements_by_class_name('chosen_tr')[1].text,
-                "colours": colors,
-                "type": driver.find_elements_by_class_name('g12')[0].text,
+                "title": card_span.text,
                 "events": [event['_id']]
             }
             cards.append(card)
-        except:
-            continue
 
-    driver.close()
-    for card in cards:
-        data = data_agent.find_cards({'title': card['title']})
-        if data is not None and len(data) > 0:
-            data_agent.add_event_to_existing_card({'title': card['title']}, event['_id'])
-        else:
-            data_agent.push_card(card)
+        for card in cards:
+            data = data_agent.find_cards({'title': card['title']})
+            if data is not None and len(data) > 0:
+                data_agent.add_event_to_existing_card({'title': card['title']}, event['_id'])
+            else:
+                data_agent.push_card(card)
+    except:
+        return
+    finally:
+        driver.close()
 
 
 def getColor(image):
