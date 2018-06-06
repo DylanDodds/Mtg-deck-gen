@@ -1,9 +1,6 @@
 from selenium import webdriver
-from bs4 import BeautifulSoup
-from mtgtop8_scraper.data import utils
-from mtgtop8_scraper.data.data_agent import DataAgent
-from datetime import datetime
-import time
+from data_agent import DataAgent
+from selenium.webdriver.firefox.options import Options
 import threading
 
 
@@ -12,39 +9,54 @@ def main():
     events = data_agent.find_events()
 
     threads = []
-
+    on = 0
+    start_point = 168
+    end_point = 2000
     for event in events:
+        on += 1
+        if on >= end_point:
+            return
+
+        if on < start_point:
+            continue
+
         processThread = threading.Thread(target=process, args=[event, data_agent])
         processThread.start()
         threads.append(processThread)
 
-        if len(threads) >= 2:
+        if len(threads) >= 6:
             for thread in threads:
                 thread.join()
             threads = []
+            print("{}/{}".format(str(on), len(events)))
 
 
 def process(event, data_agent):
+    cards = []
+    options = Options()
+    options.add_argument("--headless")
+    driver = webdriver.Firefox(firefox_options=options)
     try:
-        cards = []
         url = event['event_url']
-        driver = webdriver.Firefox()
         driver.get(url)
-
         card_spans = driver.find_elements_by_class_name('L14')
         for card_span in card_spans:
             card = {
-                "title": card_span.text,
+                "title": card_span.find_element_by_xpath('..').text,
                 "events": [event['_id']]
             }
             cards.append(card)
 
+        card_id = None
         for card in cards:
             data = data_agent.find_cards({'title': card['title']})
             if data is not None and len(data) > 0:
-                data_agent.add_event_to_existing_card({'title': card['title']}, event['_id'])
+                data_agent.add_event_to_existing_card(card['title'], event['_id'])
+                card_id = data['_id']
             else:
-                data_agent.push_card(card)
+                card_id = data_agent.push_card(card)
+            data_agent.add_card_to_existing_event(card_id, event['_id'])
+
     except:
         return
     finally:

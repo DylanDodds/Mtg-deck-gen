@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 from datetime import datetime
-from ..config import config
+from config import config
 
 class DataAgent:
     def __init__(self):
@@ -36,11 +36,25 @@ class DataAgent:
 
     def add_event_to_existing_card(self, card_title, event_id):
         try:
-            self.database.cards.update_one({'title': card_title, 'event': {'$nin': [event_id]}}, {
-                '$push': {'events': event_id}
-            }, upsert=False)
+            self.database.cards.update_one({'title': card_title, 'events': {'$nin': [event_id]}},
+                                           {'$push': {'events': event_id}}, upsert=False)
         except Exception as err:
             print('[DataAgent] Failed to update card... ', str(err))
+            return False
+
+    def add_card_to_existing_event(self, card_id, event_id):
+        try:
+            self.database.events.update_one({'_id': event_id, 'cards': {'$nin': [card_id]}},
+                                            {'$push': {'cards': card_id}}, upsert=False)
+        except Exception as err:
+            print('[DataAgent] Failed to update event... ', str(err))
+            return False
+
+    def clear_cards_from_events(self, query={}):
+        try:
+            self.database.events.update_many(query,{'$set': {'cards': []}})
+        except Exception as err:
+            print('[DataAgent] Failed to update event... ', str(err))
             return False
 
 # SELECT METHODS

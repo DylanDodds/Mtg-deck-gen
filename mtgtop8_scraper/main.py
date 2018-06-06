@@ -1,7 +1,8 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-from mtgtop8_scraper.data import utils
-from mtgtop8_scraper.data.data_agent import DataAgent
+from mtgtop8_scraper import utils
+from mtgtop8_scraper.data_agent import DataAgent
+from selenium.webdriver.firefox.options import Options
 from datetime import datetime
 import time
 import threading
@@ -26,15 +27,23 @@ def main():
 
     # multitask
     threads = []
+    record = 0
+    on = 0
+    start_pos = 24
     for deck in decks:
+        on += 1
+        while on < start_pos:
+            continue
+
         processThread = threading.Thread(target=scrape_process, args=[deck])
         processThread.start()
         threads.append(processThread)
 
-        if len(threads) >= 16:
+        if len(threads) >= 6:
             for thread in threads:
                 thread.join()
             threads = []
+        print("decks: {}/{}".format(str(on), str(len(decks))))
 
     print("Done scraping events")
 
@@ -52,7 +61,9 @@ def scrape_process(deck):
 
 def scrape_events(url):
     url_root = 'http://mtgtop8.com/'
-    driver = webdriver.Firefox()
+    options = Options()
+    options.add_argument("--headless")
+    driver = webdriver.Firefox(firefox_options=options)
     driver.get(url)
     events = []
 
