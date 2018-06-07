@@ -10,8 +10,8 @@ def main():
 
     threads = []
     on = 0
-    start_point = 152
-    end_point = 2000
+    start_point = 18000
+    end_point = 22000
     for event in events:
         on += 1
         if on >= end_point:
@@ -75,21 +75,6 @@ def getColor(image):
     if 'W.jpg' in image:
         return 'white'
     return None
-
-
-def convert_rank_to_score(rank):
-    if rank == '1':
-        return 100
-    if rank == '2':
-        return 80
-    if rank == '3' or rank == '3-4' or rank == '4':
-        return 60
-    if rank == '5-8':
-        return 40
-    if rank == '9-16':
-        return 20
-    if rank == '':
-        return 0
 
 if __name__ == '__main__':
     main()
