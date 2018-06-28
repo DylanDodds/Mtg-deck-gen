@@ -1,6 +1,6 @@
 config = {
     "mongo": {
-        "hostname": "165.227.69.202",
+        "hostname": "127.0.0.1",
         "username": "helper",
         "password": "password123",
         "port": "27017",

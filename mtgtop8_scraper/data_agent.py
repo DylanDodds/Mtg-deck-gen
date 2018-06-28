@@ -91,6 +91,32 @@ class DataAgent:
 
 # SELECT METHODS
 
+    def find_scored_cards(self, query={}):
+        try:
+            scored_cards = self.database.scored_cards
+            data = scored_cards.find(query)
+            results = []
+            for card in data:
+                results.append(card)
+            return results
+        except Exception as err:
+            print("[DataAgent] Could not find scored cards with query: {}".format(str(query)), str(err))
+            return None
+
+
+    def find_scored_pairs(self, query={}):
+        try:
+            scored_pairs = self.database.scored_pairs
+            data = scored_pairs.find(query)
+            results = {}
+            for card in data:
+                results[card['pair']] = card
+            return results
+        except Exception as err:
+            print("[DataAgent] Could not find scored pairs with query: {}".format(str(query)), str(err))
+            return None
+
+
     def find_events(self, query={}):
         try:
             events = self.database.events
